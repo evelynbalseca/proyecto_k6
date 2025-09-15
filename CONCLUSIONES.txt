@@ -4,6 +4,6 @@ PROYECTO PRUEBAS DE CARGA K6
 
 CONCLUSIONES
 
-- La instalacion y el uso de la herramienta k6 es muy intuitiva.
-- Para generar el script de ejecucion es necesario tener mucha experiencia para crear su contenido.
-- El reporte que se genera en consola, es muy complicado de interpretarlo, a menos de que se tenga la suficiente experiencia.
+- La instalacion y el uso de la herramienta k6 es muy intuitiva y facil de usar.
+- La creación de scripts en k6 requiere conocimientos sólidos de JavaScript, ya que la lógica de pruebas se define mediante código.
+- El reporte que genera k6 en consola presenta un nivel de detalle técnico elevado, lo que puede dificultar su interpretación para usuarios sin experiencia previa.
