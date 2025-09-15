@@ -1,0 +1,149 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: scripts/login_test.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 100 max VUs, 1m0s max duration (incl. graceful stop):
+              * carga_login: 20.00 iterations/s for 30s (maxVUs: 50-100, gracefulStop: 30s)
+
+
+running (0m01.0s), 020/050 VUs, 0 complete and 0 interrupted iterations
+carga_login   [   3% ] 020/050 VUs  01.0s/30s  20.00 iters/s
+
+running (0m02.0s), 028/050 VUs, 12 complete and 0 interrupted iterations
+carga_login   [   7% ] 028/050 VUs  02.0s/30s  20.00 iters/s
+
+running (0m03.0s), 028/050 VUs, 32 complete and 0 interrupted iterations
+carga_login   [  10% ] 028/050 VUs  03.0s/30s  20.00 iters/s
+
+running (0m04.0s), 027/050 VUs, 53 complete and 0 interrupted iterations
+carga_login   [  13% ] 027/050 VUs  04.0s/30s  20.00 iters/s
+
+running (0m05.0s), 027/050 VUs, 73 complete and 0 interrupted iterations
+carga_login   [  17% ] 027/050 VUs  05.0s/30s  20.00 iters/s
+
+running (0m06.0s), 028/050 VUs, 92 complete and 0 interrupted iterations
+carga_login   [  20% ] 028/050 VUs  06.0s/30s  20.00 iters/s
+
+running (0m07.0s), 027/050 VUs, 113 complete and 0 interrupted iterations
+carga_login   [  23% ] 027/050 VUs  07.0s/30s  20.00 iters/s
+
+running (0m08.0s), 027/050 VUs, 133 complete and 0 interrupted iterations
+carga_login   [  27% ] 027/050 VUs  08.0s/30s  20.00 iters/s
+
+running (0m09.0s), 027/050 VUs, 153 complete and 0 interrupted iterations
+carga_login   [  30% ] 027/050 VUs  09.0s/30s  20.00 iters/s
+
+running (0m10.0s), 027/050 VUs, 173 complete and 0 interrupted iterations
+carga_login   [  33% ] 027/050 VUs  10.0s/30s  20.00 iters/s
+
+running (0m11.0s), 027/050 VUs, 193 complete and 0 interrupted iterations
+carga_login   [  37% ] 027/050 VUs  11.0s/30s  20.00 iters/s
+
+running (0m12.0s), 027/050 VUs, 213 complete and 0 interrupted iterations
+carga_login   [  40% ] 027/050 VUs  12.0s/30s  20.00 iters/s
+
+running (0m13.0s), 027/050 VUs, 233 complete and 0 interrupted iterations
+carga_login   [  43% ] 027/050 VUs  13.0s/30s  20.00 iters/s
+
+running (0m14.0s), 028/050 VUs, 252 complete and 0 interrupted iterations
+carga_login   [  47% ] 028/050 VUs  14.0s/30s  20.00 iters/s
+
+running (0m15.0s), 027/050 VUs, 273 complete and 0 interrupted iterations
+carga_login   [  50% ] 027/050 VUs  15.0s/30s  20.00 iters/s
+
+running (0m16.0s), 027/050 VUs, 293 complete and 0 interrupted iterations
+carga_login   [  53% ] 027/050 VUs  16.0s/30s  20.00 iters/s
+
+running (0m17.0s), 027/050 VUs, 313 complete and 0 interrupted iterations
+carga_login   [  57% ] 027/050 VUs  17.0s/30s  20.00 iters/s
+
+running (0m18.0s), 027/050 VUs, 333 complete and 0 interrupted iterations
+carga_login   [  60% ] 027/050 VUs  18.0s/30s  20.00 iters/s
+
+running (0m19.0s), 027/050 VUs, 353 complete and 0 interrupted iterations
+carga_login   [  63% ] 027/050 VUs  19.0s/30s  20.00 iters/s
+
+running (0m20.0s), 027/050 VUs, 373 complete and 0 interrupted iterations
+carga_login   [  67% ] 027/050 VUs  20.0s/30s  20.00 iters/s
+
+running (0m21.0s), 027/050 VUs, 393 complete and 0 interrupted iterations
+carga_login   [  70% ] 027/050 VUs  21.0s/30s  20.00 iters/s
+
+running (0m22.0s), 027/050 VUs, 413 complete and 0 interrupted iterations
+carga_login   [  73% ] 027/050 VUs  22.0s/30s  20.00 iters/s
+
+running (0m23.0s), 027/050 VUs, 433 complete and 0 interrupted iterations
+carga_login   [  77% ] 027/050 VUs  23.0s/30s  20.00 iters/s
+
+running (0m24.0s), 027/050 VUs, 453 complete and 0 interrupted iterations
+carga_login   [  80% ] 027/050 VUs  24.0s/30s  20.00 iters/s
+
+running (0m25.0s), 027/050 VUs, 473 complete and 0 interrupted iterations
+carga_login   [  83% ] 027/050 VUs  25.0s/30s  20.00 iters/s
+
+running (0m26.0s), 027/050 VUs, 493 complete and 0 interrupted iterations
+carga_login   [  87% ] 027/050 VUs  26.0s/30s  20.00 iters/s
+
+running (0m27.0s), 026/050 VUs, 514 complete and 0 interrupted iterations
+carga_login   [  90% ] 026/050 VUs  27.0s/30s  20.00 iters/s
+
+running (0m28.0s), 027/050 VUs, 533 complete and 0 interrupted iterations
+carga_login   [  93% ] 027/050 VUs  28.0s/30s  20.00 iters/s
+
+running (0m29.0s), 027/050 VUs, 553 complete and 0 interrupted iterations
+carga_login   [  97% ] 027/050 VUs  29.0s/30s  20.00 iters/s
+
+running (0m30.0s), 027/050 VUs, 573 complete and 0 interrupted iterations
+carga_login   [ 100% ] 027/050 VUs  30.0s/30s  20.00 iters/s
+
+running (0m31.0s), 007/050 VUs, 593 complete and 0 interrupted iterations
+carga_login ↓ [ 100% ] 027/050 VUs  30s  20.00 iters/s
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<1500' p(95)=387.13ms
+
+    http_req_failed
+    ✓ 'rate<0.03' rate=0.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......: 1200   38.345362/s
+    checks_succeeded...: 50.00% 600 out of 1200
+    checks_failed......: 50.00% 600 out of 1200
+
+    ✗ status es 200
+      ↳  0% — ✓ 0 / ✗ 600
+    ✓ respuesta en < 1.5s
+
+    HTTP
+    http_req_duration..............: avg=356.02ms min=331.08ms med=350.05ms max=568.86ms p(90)=369.15ms p(95)=387.13ms
+      { expected_response:true }...: avg=356.02ms min=331.08ms med=350.05ms max=568.86ms p(90)=369.15ms p(95)=387.13ms
+    http_req_failed................: 0.00%  0 out of 600
+    http_reqs......................: 600    19.172681/s
+
+    EXECUTION
+    iteration_duration.............: avg=1.35s    min=1.33s    med=1.35s    max=1.57s    p(90)=1.37s    p(95)=1.39s   
+    iterations.....................: 600    19.172681/s
+    vus............................: 7      min=7        max=28
+    vus_max........................: 50     min=50       max=50
+
+    NETWORK
+    data_received..................: 500 kB 16 kB/s
+    data_sent......................: 93 kB  3.0 kB/s
+
+
+
+
+running (0m31.3s), 000/050 VUs, 600 complete and 0 interrupted iterations
+carga_login ✓ [ 100% ] 000/050 VUs  30s  20.00 iters/s
